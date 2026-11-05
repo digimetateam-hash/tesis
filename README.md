@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 <!-- HERO BANNER -->
@@ -1788,3 +1789,6 @@ Repositori ini menyediakan metadata sitasi terstandarisasi untuk perangkat lunak
 **[🚀 Live Dashboard](https://y6cqezpxxq2ftdwb6yvrab.streamlit.app/) &nbsp;·&nbsp; [📊 Data](data/) &nbsp;·&nbsp; [📓 Notebook](notebooks/) &nbsp;·&nbsp; [📜 Scripts](scripts/)**
 
 </div>
+=======
+# tesis
+>>>>>>> origin/main
