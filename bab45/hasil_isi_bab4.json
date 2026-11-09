@@ -1,0 +1,552 @@
+{
+ "isu": {
+  "Manfaat Gizi dan Sosial": {
+   "n": 873,
+   "pct": 16.59,
+   "emosi_dominan": "Jijik",
+   "emosi_dominan_pct": 70.1,
+   "pct_kandidat_sindiran": 3.44,
+   "P1": 219,
+   "P2": 654,
+   "rata_eng": 341.74,
+   "median_eng": 0.0
+  },
+  "Pelaksanaan & Distribusi": {
+   "n": 274,
+   "pct": 5.21,
+   "emosi_dominan": "Jijik",
+   "emosi_dominan_pct": 70.8,
+   "pct_kandidat_sindiran": 8.76,
+   "P1": 64,
+   "P2": 210,
+   "rata_eng": 646.35,
+   "median_eng": 0.0
+  },
+  "Keamanan & Mutu Makanan": {
+   "n": 171,
+   "pct": 3.25,
+   "emosi_dominan": "Jijik",
+   "emosi_dominan_pct": 71.35,
+   "pct_kandidat_sindiran": 4.09,
+   "P1": 59,
+   "P2": 112,
+   "rata_eng": 2215.93,
+   "median_eng": 0.0
+  },
+  "Anggaran & Akuntabilitas": {
+   "n": 154,
+   "pct": 2.93,
+   "emosi_dominan": "Jijik",
+   "emosi_dominan_pct": 67.53,
+   "pct_kandidat_sindiran": 7.79,
+   "P1": 44,
+   "P2": 110,
+   "rata_eng": 134.06,
+   "median_eng": 0.0
+  },
+  "Politik & Ekonomi": {
+   "n": 267,
+   "pct": 5.07,
+   "emosi_dominan": "Jijik",
+   "emosi_dominan_pct": 69.66,
+   "pct_kandidat_sindiran": 8.99,
+   "P1": 58,
+   "P2": 209,
+   "rata_eng": 709.62,
+   "median_eng": 1.0
+  },
+  "Lainnya": {
+   "n": 3524,
+   "pct": 66.96,
+   "emosi_dominan": "Jijik",
+   "emosi_dominan_pct": 47.73,
+   "pct_kandidat_sindiran": 3.92,
+   "P1": 458,
+   "P2": 3066,
+   "rata_eng": 839.55,
+   "median_eng": 1.0
+  }
+ },
+ "isu_seri": 307,
+ "isu_tanpa_kata_kunci": 3122,
+ "promo_lainnya": 402,
+ "isu_periode_pct": {
+  "P1": {
+   "Anggaran & Akuntabilitas": 4.88,
+   "Keamanan & Mutu Makanan": 6.54,
+   "Lainnya": 50.78,
+   "Manfaat Gizi dan Sosial": 24.28,
+   "Pelaksanaan & Distribusi": 7.1,
+   "Politik & Ekonomi": 6.43
+  },
+  "P2": {
+   "Anggaran & Akuntabilitas": 2.52,
+   "Keamanan & Mutu Makanan": 2.57,
+   "Lainnya": 70.3,
+   "Manfaat Gizi dan Sosial": 15.0,
+   "Pelaksanaan & Distribusi": 4.82,
+   "Politik & Ekonomi": 4.79
+  }
+ },
+ "isu_x_emosi": {
+  "Bahagia": {
+   "Anggaran & Akuntabilitas": 0,
+   "Keamanan & Mutu Makanan": 2,
+   "Lainnya": 50,
+   "Manfaat Gizi dan Sosial": 14,
+   "Pelaksanaan & Distribusi": 7,
+   "Politik & Ekonomi": 3
+  },
+  "Jijik": {
+   "Anggaran & Akuntabilitas": 104,
+   "Keamanan & Mutu Makanan": 122,
+   "Lainnya": 1682,
+   "Manfaat Gizi dan Sosial": 612,
+   "Pelaksanaan & Distribusi": 194,
+   "Politik & Ekonomi": 186
+  },
+  "Kaget": {
+   "Anggaran & Akuntabilitas": 0,
+   "Keamanan & Mutu Makanan": 2,
+   "Lainnya": 11,
+   "Manfaat Gizi dan Sosial": 0,
+   "Pelaksanaan & Distribusi": 0,
+   "Politik & Ekonomi": 1
+  },
+  "Marah": {
+   "Anggaran & Akuntabilitas": 0,
+   "Keamanan & Mutu Makanan": 0,
+   "Lainnya": 54,
+   "Manfaat Gizi dan Sosial": 0,
+   "Pelaksanaan & Distribusi": 0,
+   "Politik & Ekonomi": 0
+  },
+  "Netral": {
+   "Anggaran & Akuntabilitas": 7,
+   "Keamanan & Mutu Makanan": 5,
+   "Lainnya": 580,
+   "Manfaat Gizi dan Sosial": 25,
+   "Pelaksanaan & Distribusi": 4,
+   "Politik & Ekonomi": 24
+  },
+  "Percaya": {
+   "Anggaran & Akuntabilitas": 1,
+   "Keamanan & Mutu Makanan": 18,
+   "Lainnya": 922,
+   "Manfaat Gizi dan Sosial": 90,
+   "Pelaksanaan & Distribusi": 25,
+   "Politik & Ekonomi": 3
+  },
+  "Sedih": {
+   "Anggaran & Akuntabilitas": 3,
+   "Keamanan & Mutu Makanan": 1,
+   "Lainnya": 2,
+   "Manfaat Gizi dan Sosial": 10,
+   "Pelaksanaan & Distribusi": 1,
+   "Politik & Ekonomi": 0
+  },
+  "Takut": {
+   "Anggaran & Akuntabilitas": 0,
+   "Keamanan & Mutu Makanan": 0,
+   "Lainnya": 2,
+   "Manfaat Gizi dan Sosial": 0,
+   "Pelaksanaan & Distribusi": 0,
+   "Politik & Ekonomi": 0
+  },
+  "Tertarik": {
+   "Anggaran & Akuntabilitas": 39,
+   "Keamanan & Mutu Makanan": 21,
+   "Lainnya": 221,
+   "Manfaat Gizi dan Sosial": 122,
+   "Pelaksanaan & Distribusi": 43,
+   "Politik & Ekonomi": 50
+  }
+ },
+ "n_kandidat": 235,
+ "pct_kandidat": 4.47,
+ "penanda": {
+  "Pembalik harapan": {
+   "n": 117,
+   "pct_dari_kandidat": 49.79,
+   "emoji_top3": [
+    [
+     "😭",
+     31
+    ],
+    [
+     "🏻",
+     10
+    ],
+    [
+     "🤏",
+     8
+    ]
+   ]
+  },
+  "Penghinaan halus": {
+   "n": 49,
+   "pct_dari_kandidat": 20.85,
+   "emoji_top3": [
+    [
+     "🙃",
+     30
+    ],
+    [
+     "🤡",
+     20
+    ],
+    [
+     "😭",
+     4
+    ]
+   ]
+  },
+  "Pujian palsu": {
+   "n": 77,
+   "pct_dari_kandidat": 32.77,
+   "emoji_top3": [
+    [
+     "😭",
+     16
+    ],
+    [
+     "😇",
+     9
+    ],
+    [
+     "🤣",
+     7
+    ]
+   ]
+  }
+ },
+ "multi_penanda": 8,
+ "kandidat_periode": {
+  "sum": {
+   "P1": 51,
+   "P2": 184
+  },
+  "mean": {
+   "P1": 0.0565,
+   "P2": 0.0422
+  }
+ },
+ "kandidat_emosi": {
+  "Jijik": 167,
+  "Percaya": 28,
+  "Tertarik": 19,
+  "Netral": 12,
+  "Bahagia": 6,
+  "Kaget": 2,
+  "Sedih": 1
+ },
+ "eng_kandidat_vs_bukan": {
+  "False": {
+   "n": 5028,
+   "rata": 679.06,
+   "median": 1.0,
+   "rata_view": 21539.53
+  },
+  "True": {
+   "n": 235,
+   "rata": 2590.41,
+   "median": 1.0,
+   "rata_view": 75818.13
+  }
+ },
+ "puncak": {
+  "2026-04-12": {
+   "n": 183,
+   "isu": {
+    "Lainnya": 149,
+    "Manfaat Gizi dan Sosial": 14,
+    "Politik & Ekonomi": 10
+   },
+   "emosi": {
+    "Jijik": 108,
+    "Percaya": 43,
+    "Tertarik": 25
+   },
+   "tagar": [
+    [
+     "#mbg2026",
+     3
+    ],
+    [
+     "#programpemerintah",
+     3
+    ],
+    [
+     "#lokernasional",
+     3
+    ],
+    [
+     "#lokermbg",
+     3
+    ],
+    [
+     "#infokerja",
+     3
+    ],
+    [
+     "#antrianviral",
+     3
+    ]
+   ],
+   "kandidat_sindiran_pct": 10.9,
+   "akun_teratas": {
+    "grok": 4,
+    "nandvrpari": 3,
+    "Pacitanku": 3
+   },
+   "unggahan_viral": [
+    "@nifar4ngantukZz (tapi kalau ada makanan mau) 😭😭😭😭 LUCU BNGT YA ALLAH, SEMANGAT BUAT TEMENNYA",
+    "Kemarin siang siang aku laper terus order makanan 😅 https://t.co/t6l5VVqaSB",
+    "Gara2 Arjuna Arkana, jadi penasaran sama rasanya😂akhirnya beli makanan yg lagi sering di makan sama blio🤭 https://t.co/LHm3qk4B2l",
+    "drop foto makanan dari hp kesayanganmu itu🫵🏼 https://t.co/ZxYDZlrAqp",
+    "drop foto makanan dari hp kesayanganmu itu🫵🏼 https://t.co/ZxYDZlrAqp"
+   ]
+  },
+  "2026-05-10": {
+   "n": 475,
+   "isu": {
+    "Lainnya": 318,
+    "Manfaat Gizi dan Sosial": 61,
+    "Pelaksanaan & Distribusi": 30
+   },
+   "emosi": {
+    "Jijik": 234,
+    "Percaya": 172,
+    "Tertarik": 53
+   },
+   "tagar": [
+    [
+     "#zonauang",
+     12
+    ],
+    [
+     "#zonajajan",
+     10
+    ],
+    [
+     "#mbg",
+     10
+    ],
+    [
+     "#シンガーソングライター",
+     5
+    ],
+    [
+     "#wip",
+     4
+    ],
+    [
+     "#stopmbg",
+     3
+    ]
+   ],
+   "kandidat_sindiran_pct": 3.6,
+   "akun_teratas": {
+    "spacerangersRRR": 10,
+    "fransis74201222": 10,
+    "grok": 9
+   },
+   "unggahan_viral": [
+    "Cucunya pejabat dapat MBG disekolahnya. Sementara si Siti yg masih berumur 6 tahun harus memulung barang bekas dgn hasil 2000/hari untuk membantu mamanya yg lagi sakit.  Tetaplah bertahan nak,walau negara tak peduli deng",
+    "Cucunya pejabat dapat MBG disekolahnya. Sementara si Siti yg masih berumur 6 tahun harus memulung barang bekas dgn hasil 2000/hari untuk membantu mamanya yg lagi sakit.  Tetaplah bertahan nak,walau negara tak peduli deng",
+    "Cucunya pejabat dapat MBG disekolahnya. Sementara si Siti yg masih berumur 6 tahun harus memulung barang bekas dgn hasil 2000/hari untuk membantu mamanya yg lagi sakit.  Tetaplah bertahan nak,walau negara tak peduli deng",
+    "#JossGawin 🔞 Au Bokep Kampung Series Part 7 ⚠️21+ ⚠️02 haters ⚠️Cringe                                SOPIR MBG                 Sopir MBG X Guru PJOK  ㅤ https://t.co/msQXPG9eYp",
+    "#JossGawin 🔞 Au Bokep Kampung Series Part 7 ⚠️21+ ⚠️02 haters ⚠️Cringe                                SOPIR MBG                 Sopir MBG X Guru PJOK  ㅤ https://t.co/msQXPG9eYp"
+   ]
+  },
+  "2026-05-13": {
+   "n": 907,
+   "isu": {
+    "Lainnya": 813,
+    "Manfaat Gizi dan Sosial": 43,
+    "Pelaksanaan & Distribusi": 22
+   },
+   "emosi": {
+    "Jijik": 404,
+    "Netral": 323,
+    "Percaya": 110
+   },
+   "tagar": [
+    [
+     "#kuponhalodocmei2026",
+     5
+    ],
+    [
+     "#voucherhalodocmei2026",
+     5
+    ],
+    [
+     "#esquentabookfriday",
+     5
+    ],
+    [
+     "#zonauang",
+     4
+    ],
+    [
+     "#lanjutkanmbg",
+     4
+    ],
+    [
+     "#wutheseriesep2",
+     4
+    ]
+   ],
+   "kandidat_sindiran_pct": 2.0,
+   "akun_teratas": {
+    "toppromoalertas": 171,
+    "bcofertas": 121,
+    "JoaoPSXPromo": 31
+   },
+   "unggahan_viral": [
+    "KONTEKSNYA :  jadi di salah satu sekolah korea selatan, seorang guru sedang melakukan praktik mengamati serangga, lalu guru tersebut melepaskan serangga serangga itu untuk bisa berinteraksi langsung dengan siswanya, ga d",
+    "KONTEKSNYA :  jadi di salah satu sekolah korea selatan, seorang guru sedang melakukan praktik mengamati serangga, lalu guru tersebut melepaskan serangga serangga itu untuk bisa berinteraksi langsung dengan siswanya, ga d",
+    "Gw baru bgt jemput keponakan gw sekolah (masih sd kelas 5) dan mampir makan ke hokben krn gw laper dan keponakan gw juga laper katanya. pas lagi makan, tiba tiba dia nyeletuk kenceng “DIHINA HINA SAYA DIAM” DEMI APAPUN G",
+    "Gw baru bgt jemput keponakan gw sekolah (masih sd kelas 5) dan mampir makan ke hokben krn gw laper dan keponakan gw juga laper katanya. pas lagi makan, tiba tiba dia nyeletuk kenceng “DIHINA HINA SAYA DIAM” DEMI APAPUN G",
+    "💚 Mau gibah soal MBG.  Mba ku keluar karena ada tawaran jadi SPPG. Funfact: Dia kalau cuci piring GAPERNAH BERSIH. Ga cuma cuci piring, tapi in general. Bingung banget dari mana “seleksi ketat” nya 🤗  Best of luck untuk "
+   ]
+  },
+  "2026-05-23": {
+   "n": 364,
+   "isu": {
+    "Lainnya": 258,
+    "Manfaat Gizi dan Sosial": 64,
+    "Pelaksanaan & Distribusi": 16
+   },
+   "emosi": {
+    "Jijik": 237,
+    "Percaya": 79,
+    "Tertarik": 22
+   },
+   "tagar": [
+    [
+     "#mbg",
+     13
+    ],
+    [
+     "#bimarchive",
+     8
+    ],
+    [
+     "#makanbergizigratis",
+     7
+    ],
+    [
+     "#indonesiamaju",
+     7
+    ],
+    [
+     "#indonesiasehat",
+     6
+    ],
+    [
+     "#prabowo",
+     6
+    ]
+   ],
+   "kandidat_sindiran_pct": 5.5,
+   "akun_teratas": {
+    "menuembegejelek": 8,
+    "sijeuninct": 6,
+    "ImamBesar212": 4
+   },
+   "unggahan_viral": [
+    "Sepasang remaja asal Temanggung kepergok sedang berduaan di toilet SPBU Soco Slogohimo, Kab. Wonogiri.   Kenikmatan sesaat menjadi aib seumur hidup 😂 https://t.co/Y0uR0fWeIF",
+    "HASHTAGNYA RANDOM BANGET😭😭😭  # cowok-cowok yg jelas / pasti # contoh cowok dengan good vibes # rekomendasi tempat makan # idol buatan park jaebom https://t.co/JZgOrYtxZA",
+    "HASHTAGNYA RANDOM BANGET😭😭😭  # cowok-cowok yg jelas / pasti # contoh cowok dengan good vibes # rekomendasi tempat makan # idol buatan park jaebom https://t.co/JZgOrYtxZA",
+    "🐶 : “km nanya berat badanku?” 🐶 : “berat badan aku nurun?” 👩🏻 : “iyaaaa” 🐶 : “tapi beneran kok aku ngga diet” 🐶 : “aku beneran masih makan dg lahap” 👩🏻 : “betulan kan???” 🐶 : “betul, aku makan banyak kok 🥹” 👩🏻 : “soalnya",
+    "🐶 : “km nanya berat badanku?” 🐶 : “berat badan aku nurun?” 👩🏻 : “iyaaaa” 🐶 : “tapi beneran kok aku ngga diet” 🐶 : “aku beneran masih makan dg lahap” 👩🏻 : “betulan kan???” 🐶 : “betul, aku makan banyak kok 🥹” 👩🏻 : “soalnya"
+   ]
+  },
+  "2026-05-24": {
+   "n": 1188,
+   "isu": {
+    "Lainnya": 970,
+    "Manfaat Gizi dan Sosial": 100,
+    "Politik & Ekonomi": 46
+   },
+   "emosi": {
+    "Jijik": 603,
+    "Percaya": 314,
+    "Netral": 144
+   },
+   "tagar": [
+    [
+     "#lolfanfest2026d3",
+     10
+    ],
+    [
+     "#menjagaketahananpangan",
+     9
+    ],
+    [
+     "#cortis",
+     7
+    ],
+    [
+     "#jagaindonesia",
+     6
+    ],
+    [
+     "#lanjutkanmbg",
+     6
+    ],
+    [
+     "#fyp",
+     5
+    ]
+   ],
+   "kandidat_sindiran_pct": 4.2,
+   "akun_teratas": {
+    "susan_amelia46": 11,
+    "PickCristianRey": 9,
+    "EspiaDeOfertas": 6
+   },
+   "unggahan_viral": [
+    "🚨 “PENSOU QUE ERA VALE-REFEIÇÃO VITALÍCIO?” Homem é acusado de comer todos os dias e sair sem pagar em restaurante. Pelo visto, ele criou o “rodízio grátis” na própria cabeça. 🍽️🥤💸 Segundo o comerciante, o cidadão aparec",
+    "Teman-teman di Sumatera, apakah per hari ini kami boleh meminta tolong lagi, untuk mengabarkan daerah mana saja yang masih padam? 🙏🏻  Agaknya pihak biadab @pln_123 mulai melakukan cuci tangan dengan cara menyebarkan disi",
+    "Teman-teman di Sumatera, apakah per hari ini kami boleh meminta tolong lagi, untuk mengabarkan daerah mana saja yang masih padam? 🙏🏻  Agaknya pihak biadab @pln_123 mulai melakukan cuci tangan dengan cara menyebarkan disi",
+    "di pre-recording inkigayo hari ini, member cortis nanya ke coer udah pada nonton acara james juhoon yg tadi malem nggak, terus keonho malah nanya gini  🐶 abang emang makanannya bisa dimakan?? 🦅 kalo abang makan dikit doa",
+    "di pre-recording inkigayo hari ini, member cortis nanya ke coer udah pada nonton acara james juhoon yg tadi malem nggak, terus keonho malah nanya gini  🐶 abang emang makanannya bisa dimakan?? 🦅 kalo abang makan dikit doa"
+   ]
+  }
+ },
+ "puncak_ringkas": {
+  "2026-04-12": {
+   "n": 183,
+   "promo": 0,
+   "isu_5": 34,
+   "frasa_program": 20
+  },
+  "2026-05-10": {
+   "n": 475,
+   "promo": 2,
+   "isu_5": 157,
+   "frasa_program": 25
+  },
+  "2026-05-13": {
+   "n": 907,
+   "promo": 391,
+   "isu_5": 94,
+   "frasa_program": 18
+  },
+  "2026-05-23": {
+   "n": 364,
+   "promo": 1,
+   "isu_5": 106,
+   "frasa_program": 24
+  },
+  "2026-05-24": {
+   "n": 1188,
+   "promo": 6,
+   "isu_5": 218,
+   "frasa_program": 20
+  }
+ },
+ "frasa_program_total": 532
+}

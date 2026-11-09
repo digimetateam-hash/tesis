@@ -1,0 +1,763 @@
+{
+ "n_posts": 5263,
+ "n_akun": 2420,
+ "per_periode": {
+  "P2": 4361,
+  "P1": 902
+ },
+ "akun_per_periode": {
+  "P1": 502,
+  "P2": 1987
+ },
+ "rentang": [
+  "2026-03-02 16:27:25+07:00",
+  "2026-05-24 16:22:35+07:00"
+ ],
+ "hari_aktif": 83,
+ "top_hari": {
+  "2026-05-24": 1188,
+  "2026-05-13": 907,
+  "2026-05-10": 475,
+  "2026-05-23": 364,
+  "2026-05-14": 345,
+  "2026-04-12": 183,
+  "2026-05-11": 179,
+  "2026-05-22": 114
+ },
+ "rata_per_hari_periode": {
+  "P1": 15.3,
+  "P2": 181.7
+ },
+ "median_per_hari": 12.0,
+ "mingguan": {
+  "2026-03-08": 28,
+  "2026-03-15": 39,
+  "2026-03-22": 32,
+  "2026-03-29": 86,
+  "2026-04-05": 75,
+  "2026-04-12": 287,
+  "2026-04-19": 219,
+  "2026-04-26": 76,
+  "2026-05-03": 93,
+  "2026-05-10": 684,
+  "2026-05-17": 1673,
+  "2026-05-24": 1971
+ },
+ "emosi": {
+  "Jijik": 2900,
+  "Percaya": 1059,
+  "Netral": 645,
+  "Tertarik": 496,
+  "Bahagia": 76,
+  "Marah": 54,
+  "Sedih": 17,
+  "Kaget": 14,
+  "Takut": 2
+ },
+ "emosi_periode": {
+  "P1": {
+   "Bahagia": 14,
+   "Jijik": 560,
+   "Kaget": 2,
+   "Marah": 0,
+   "Netral": 37,
+   "Percaya": 132,
+   "Sedih": 3,
+   "Takut": 0,
+   "Tertarik": 154
+  },
+  "P2": {
+   "Bahagia": 62,
+   "Jijik": 2340,
+   "Kaget": 12,
+   "Marah": 54,
+   "Netral": 608,
+   "Percaya": 927,
+   "Sedih": 14,
+   "Takut": 2,
+   "Tertarik": 342
+  }
+ },
+ "emosi_periode_pct": {
+  "P1": {
+   "Bahagia": 1.55,
+   "Jijik": 62.08,
+   "Kaget": 0.22,
+   "Marah": 0.0,
+   "Netral": 4.1,
+   "Percaya": 14.63,
+   "Sedih": 0.33,
+   "Takut": 0.0,
+   "Tertarik": 17.07
+  },
+  "P2": {
+   "Bahagia": 1.42,
+   "Jijik": 53.66,
+   "Kaget": 0.28,
+   "Marah": 1.24,
+   "Netral": 13.94,
+   "Percaya": 21.26,
+   "Sedih": 0.32,
+   "Takut": 0.05,
+   "Tertarik": 7.84
+  }
+ },
+ "emoji_unggahan_memuat": 5248,
+ "emoji_total": 15073,
+ "emoji_jenis": 678,
+ "emoji_top10": [
+  [
+   "😭",
+   1961,
+   836
+  ],
+  [
+   "🤣",
+   578,
+   247
+  ],
+  [
+   "✨",
+   405,
+   359
+  ],
+  [
+   "🔥",
+   357,
+   268
+  ],
+  [
+   "😂",
+   313,
+   229
+  ],
+  [
+   "✅",
+   308,
+   147
+  ],
+  [
+   "🇷",
+   304,
+   303
+  ],
+  [
+   "🇧",
+   295,
+   295
+  ],
+  [
+   "👉",
+   227,
+   186
+  ],
+  [
+   "🙏",
+   205,
+   168
+  ]
+ ],
+ "eng_total": {
+  "like_count": {
+   "jumlah": 3177111,
+   "rata": 603.67,
+   "median": 0.0
+  },
+  "retweet_count": {
+   "jumlah": 723781,
+   "rata": 137.52,
+   "median": 0.0
+  },
+  "reply_count": {
+   "jumlah": 78286,
+   "rata": 14.87,
+   "median": 0.0
+  },
+  "quote_count": {
+   "jumlah": 43883,
+   "rata": 8.34,
+   "median": 0.0
+  },
+  "view_count": {
+   "jumlah": 126118016,
+   "rata": 23963.14,
+   "median": 156.0
+  },
+  "eng": {
+   "jumlah": 4023061,
+   "rata": 764.4,
+   "median": 1.0
+  }
+ },
+ "eng_periode": {
+  "P1": {
+   "like_count": {
+    "jumlah": 396502,
+    "rata": 439.58,
+    "median": 0.0
+   },
+   "retweet_count": {
+    "jumlah": 94719,
+    "rata": 105.01,
+    "median": 0.0
+   },
+   "reply_count": {
+    "jumlah": 9627,
+    "rata": 10.67,
+    "median": 0.0
+   },
+   "quote_count": {
+    "jumlah": 6568,
+    "rata": 7.28,
+    "median": 0.0
+   },
+   "view_count": {
+    "jumlah": 16918507,
+    "rata": 18756.66,
+    "median": 135.5
+   },
+   "eng": {
+    "jumlah": 507416,
+    "rata": 562.55,
+    "median": 0.0
+   }
+  },
+  "P2": {
+   "like_count": {
+    "jumlah": 2780609,
+    "rata": 637.61,
+    "median": 1.0
+   },
+   "retweet_count": {
+    "jumlah": 629062,
+    "rata": 144.25,
+    "median": 0.0
+   },
+   "reply_count": {
+    "jumlah": 68659,
+    "rata": 15.74,
+    "median": 0.0
+   },
+   "quote_count": {
+    "jumlah": 37315,
+    "rata": 8.56,
+    "median": 0.0
+   },
+   "view_count": {
+    "jumlah": 109199509,
+    "rata": 25040.02,
+    "median": 165.0
+   },
+   "eng": {
+    "jumlah": 3515645,
+    "rata": 806.16,
+    "median": 1.0
+   }
+  }
+ },
+ "nol_keterlibatan": 2570,
+ "eng_konsentrasi_top1pct": 52.28,
+ "eng_konsentrasi_top10pct": 96.51,
+ "eng_emosi": {
+  "Jijik": {
+   "n": 2900,
+   "rata_eng": 1024.32,
+   "median_eng": 1.0,
+   "rata_like": 795.2,
+   "rata_rt": 201.67,
+   "rata_reply": 16.62,
+   "rata_view": 28304.67
+  },
+  "Percaya": {
+   "n": 1059,
+   "rata_eng": 517.81,
+   "median_eng": 0.0,
+   "rata_like": 434.59,
+   "rata_rt": 65.29,
+   "rata_reply": 10.6,
+   "rata_view": 18863.96
+  },
+  "Netral": {
+   "n": 645,
+   "rata_eng": 520.53,
+   "median_eng": 1.0,
+   "rata_like": 418.78,
+   "rata_rt": 78.74,
+   "rata_reply": 18.36,
+   "rata_view": 26111.35
+  },
+  "Tertarik": {
+   "n": 496,
+   "rata_eng": 218.74,
+   "median_eng": 0.0,
+   "rata_like": 179.34,
+   "rata_rt": 25.83,
+   "rata_reply": 11.08,
+   "rata_view": 10047.14
+  },
+  "Bahagia": {
+   "n": 76,
+   "rata_eng": 407.22,
+   "median_eng": 2.0,
+   "rata_like": 339.14,
+   "rata_rt": 58.14,
+   "rata_reply": 5.54,
+   "rata_view": 8351.63
+  },
+  "Marah": {
+   "n": 54,
+   "rata_eng": 240.94,
+   "median_eng": 1.0,
+   "rata_like": 223.39,
+   "rata_rt": 9.09,
+   "rata_reply": 8.41,
+   "rata_view": 4005.91
+  },
+  "Sedih": {
+   "n": 17,
+   "rata_eng": 31.24,
+   "median_eng": 0.0,
+   "rata_like": 11.35,
+   "rata_rt": 3.88,
+   "rata_reply": 16.0,
+   "rata_view": 1776.41
+  },
+  "Kaget": {
+   "n": 14,
+   "rata_eng": 1102.93,
+   "median_eng": 24.0,
+   "rata_like": 979.07,
+   "rata_rt": 87.36,
+   "rata_reply": 25.79,
+   "rata_view": 96494.64
+  },
+  "Takut": {
+   "n": 2,
+   "rata_eng": 0.0,
+   "median_eng": 0.0,
+   "rata_like": 0.0,
+   "rata_rt": 0.0,
+   "rata_reply": 0.0,
+   "rata_view": 87.0
+  }
+ },
+ "akun_aktif_top10": [
+  [
+   "toppromoalertas",
+   171,
+   0
+  ],
+  [
+   "bcofertas",
+   121,
+   0
+  ],
+  [
+   "grok",
+   93,
+   12
+  ],
+  [
+   "spacerangersRRR",
+   47,
+   0
+  ],
+  [
+   "ImamBesar212",
+   36,
+   59809
+  ],
+  [
+   "JoaoPSXPromo",
+   31,
+   2
+  ],
+  [
+   "tanyarlfes",
+   30,
+   104169
+  ],
+  [
+   "menuembegejelek",
+   28,
+   286625
+  ],
+  [
+   "Jelli_cent",
+   27,
+   17685
+  ],
+  [
+   "Yozgat_gizi",
+   27,
+   139
+  ]
+ ],
+ "akun_1_unggahan": 1156,
+ "akun_eng_top10": [
+  [
+   "afinasyif",
+   10,
+   330160
+  ],
+  [
+   "menuembegejelek",
+   28,
+   286625
+  ],
+  [
+   "nervinette",
+   2,
+   255674
+  ],
+  [
+   "keluhkesahkonoh",
+   1,
+   122589
+  ],
+  [
+   "cozyaltruis",
+   3,
+   121676
+  ],
+  [
+   "all_in_alin",
+   1,
+   108042
+  ],
+  [
+   "tanyarlfes",
+   30,
+   104169
+  ],
+  [
+   "ohyoulic",
+   4,
+   82008
+  ],
+  [
+   "qwonidin",
+   1,
+   71407
+  ],
+  [
+   "KucengTerbanggg",
+   5,
+   70185
+  ]
+ ],
+ "net": {
+  "akun": 971,
+  "relasi_baris": 692,
+  "relasi_unik": 666,
+  "kepadatan": 0.000707,
+  "komponen": 341,
+  "selfloop": 15,
+  "timbal_balik_pct": 1.23,
+  "komponen_terbesar": 89,
+  "ukuran_komponen_top5": [
+   89,
+   18,
+   14,
+   11,
+   10
+  ],
+  "komponen_ukuran2": 234,
+  "akun_disebut": 588,
+  "akun_menyebut": 415,
+  "top_in": [
+   [
+    "prabowo",
+    15
+   ],
+   [
+    "tanyakanrl",
+    5
+   ],
+   [
+    "regar_op0sisi",
+    5
+   ],
+   [
+    "tanyarlfes",
+    5
+   ],
+   [
+    "LambeSahamjja",
+    4
+   ],
+   [
+    "Makaryo0",
+    3
+   ],
+   [
+    "itbfess_x",
+    3
+   ],
+   [
+    "Sekjebn",
+    2
+   ],
+   [
+    "DudeRafay60339",
+    2
+   ],
+   [
+    "RaidenKevin17",
+    2
+   ]
+  ],
+  "top_out": [
+   [
+    "grok",
+    42
+   ],
+   [
+    "4Y4NKZ",
+    15
+   ],
+   [
+    "newIding30",
+    15
+   ],
+   [
+    "dbdbidip",
+    13
+   ],
+   [
+    "Casagrande10939",
+    10
+   ],
+   [
+    "luvdysh_",
+    9
+   ],
+   [
+    "mBg_JK",
+    8
+   ],
+   [
+    "punishe98373138",
+    7
+   ],
+   [
+    "daffiriffi",
+    7
+   ],
+   [
+    "ryookaasan",
+    6
+   ]
+  ],
+  "top_total": [
+   [
+    "grok",
+    42
+   ],
+   [
+    "4Y4NKZ",
+    17
+   ],
+   [
+    "newIding30",
+    16
+   ],
+   [
+    "prabowo",
+    15
+   ],
+   [
+    "dbdbidip",
+    13
+   ],
+   [
+    "Casagrande10939",
+    10
+   ],
+   [
+    "luvdysh_",
+    9
+   ],
+   [
+    "mBg_JK",
+    8
+   ],
+   [
+    "regar_op0sisi",
+    7
+   ],
+   [
+    "punishe98373138",
+    7
+   ]
+  ],
+  "top_betweenness": [
+   [
+    "4Y4NKZ",
+    1.6e-05
+   ],
+   [
+    "regar_op0sisi",
+    1.1e-05
+   ],
+   [
+    "multibank_io",
+    6e-06
+   ],
+   [
+    "voz_populi",
+    2e-06
+   ],
+   [
+    "xquitavee",
+    1e-06
+   ]
+  ],
+  "komunitas": 342,
+  "modularitas": 0.9831,
+  "komunitas_top10": [
+   [
+    46,
+    "prabowo"
+   ],
+   [
+    43,
+    "grok"
+   ],
+   [
+    18,
+    "4Y4NKZ"
+   ],
+   [
+    14,
+    "dbdbidip"
+   ],
+   [
+    11,
+    "Casagrande10939"
+   ],
+   [
+    10,
+    "luvdysh_"
+   ],
+   [
+    9,
+    "mBg_JK"
+   ],
+   [
+    8,
+    "tanyakanrl"
+   ],
+   [
+    8,
+    "multibank_io"
+   ],
+   [
+    7,
+    "kenzowijay46299"
+   ]
+  ],
+  "komunitas_ukuran_ge5": 24,
+  "P1": {
+   "akun": 109,
+   "relasi_unik": 65,
+   "kepadatan": 0.005522,
+   "komponen": 46,
+   "timbal_balik_pct": 0.0,
+   "top_in": [
+    [
+     "prabowo",
+     3
+    ],
+    [
+     "dosenkesmas",
+     2
+    ],
+    [
+     "PutraMataSatu",
+     1
+    ]
+   ],
+   "top_out": [
+    [
+     "grok",
+     5
+    ],
+    [
+     "Turu748392",
+     4
+    ],
+    [
+     "banten_pemprov",
+     4
+    ]
+   ]
+  },
+  "P2": {
+   "akun": 871,
+   "relasi_unik": 601,
+   "kepadatan": 0.000793,
+   "komponen": 304,
+   "timbal_balik_pct": 1.36,
+   "top_in": [
+    [
+     "prabowo",
+     12
+    ],
+    [
+     "tanyakanrl",
+     5
+    ],
+    [
+     "regar_op0sisi",
+     4
+    ]
+   ],
+   "top_out": [
+    [
+     "grok",
+     37
+    ],
+    [
+     "4Y4NKZ",
+     15
+    ],
+    [
+     "newIding30",
+     15
+    ]
+   ]
+  }
+ },
+ "sensitivitas_promo_pt": {
+  "n_promo_pt": 402,
+  "akun_promo_pt": 27,
+  "emosi_promo_pt": {
+   "Netral": 202,
+   "Jijik": 178,
+   "Marah": 19,
+   "Percaya": 2,
+   "Kaget": 1
+  },
+  "emosi_tanpa_promo": {
+   "Jijik": 2722,
+   "Percaya": 1057,
+   "Tertarik": 496,
+   "Netral": 443,
+   "Bahagia": 76,
+   "Marah": 35,
+   "Sedih": 17,
+   "Kaget": 13,
+   "Takut": 2
+  },
+  "n_tanpa": 4861,
+  "top_akun_promo": {
+   "toppromoalertas": 171,
+   "bcofertas": 121,
+   "JoaoPSXPromo": 31,
+   "DescontoemGames": 20,
+   "Economizzando2": 16,
+   "EspiaDeOfertas": 6
+  }
+ }
+}
