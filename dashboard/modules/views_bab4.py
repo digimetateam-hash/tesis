@@ -254,6 +254,46 @@ def render_bab4_page():
                     st.plotly_chart(fig_live_absa, width='stretch')
                 st.caption("✅ **Data Sumber:** `results/absa_results.csv` | **Posisi:** Bab 4.6.1 & 4.6.2")
 
+            # ── ANALISIS BRAND24: 9 EMOSI & SEBARAN EMOJI ──
+            p_b24_csv = os.path.join(PROJECT_ROOT, "results", "analisis_9_emosi_emoji_brand24.csv")
+            p_b24_fig = os.path.join(PROJECT_ROOT, "figures", "analisis_9_emosi_emoji_brand24.png")
+            if os.path.exists(p_b24_csv):
+                st.markdown("### 📡 Analisis 9 Kategori Emosi & Sebaran Emoji (Metrik Brand24 Social Listening)")
+                st.caption("Integrasi klasifikasi 9 emosi IndoBERT dengan metrik Brand24: *Volume (Share of Voice), Total Interaksi, Social Reach, Presence Score (0–100), dan Sebaran Top Emoji*.")
+                
+                try:
+                    df_b24_display = pd.read_csv(p_b24_csv)
+                    b24_c1, b24_c2, b24_c3, b24_c4 = st.columns(4)
+                    with b24_c1:
+                        st.metric("Total Korpus", "5.272 Cuitan", "100% Terklasifikasi")
+                    with b24_c2:
+                        st.metric("Emosi Dominan", "🤢 Jijik (55,01%)", "Top Presence: 65.1")
+                    with b24_c3:
+                        st.metric("Total Interaksi Sosial", "4.022.628", "Likes + RT + Reply")
+                    with b24_c4:
+                        st.metric("Estimasi Reach Brand24", "126.121.266", "Social Impressions")
+
+                    st.dataframe(
+                        df_b24_display[['kategori_emosi', 'emoji_representatif', 'volume_mention', 'share_of_voice_pct', 'total_interaksi', 'rata_interaksi', 'estimasi_reach', 'brand24_presence_score', 'top_5_emoji']],
+                        column_config={
+                            'kategori_emosi': 'Kategori Emosi',
+                            'emoji_representatif': 'Emoji Utama',
+                            'volume_mention': st.column_config.NumberColumn('Volume', format='%d'),
+                            'share_of_voice_pct': st.column_config.NumberColumn('Share (%)', format='%.2f%%'),
+                            'total_interaksi': st.column_config.NumberColumn('Total Interaksi', format='%d'),
+                            'rata_interaksi': st.column_config.NumberColumn('Rata-Rata', format='%.1f'),
+                            'estimasi_reach': st.column_config.NumberColumn('Reach Brand24', format='%d'),
+                            'brand24_presence_score': st.column_config.NumberColumn('Presence Score', format='%.1f'),
+                            'top_5_emoji': 'Top 5 Emoji Terbanyak (Frekuensi | %)'
+                        },
+                        hide_index=True,
+                        width='stretch'
+                    )
+                    if os.path.exists(p_b24_fig):
+                        st.image(p_b24_fig, caption="Gambar 4.X: Distribusi Volume dan Interaksi 9 Emosi ala Brand24", width='stretch')
+                except Exception as b24_err:
+                    st.caption(f"Info modul Brand24: {b24_err}")
+
         except Exception as e:
             st.warning(f"Memuat data audit grafis... ({e})")
 
